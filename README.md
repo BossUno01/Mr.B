@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Mr.B</>
+    <title>Mr.B</title>
       </head>
     <body>
       <h1>This is a Heading</h1>
