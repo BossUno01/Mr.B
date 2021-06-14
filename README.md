@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Mr.B</title>
+
 </head>
 <body>
 
